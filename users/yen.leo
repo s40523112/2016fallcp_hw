@@ -343,7 +343,7 @@ apply broader style changes, like switching the page background.
 
 </t>
 <t tx="amd.20161004083800.8">&lt;section&gt;
-    &lt;h1&gt;2016Fall CPA 計算機程式課程 s40523114&lt;/h1&gt;
+    &lt;h1&gt;2016Fall CPA 計算機程式課程 s40523112&lt;/h1&gt;
     &lt;h3&gt;虎尾科技大學 機械設計系&lt;/h3&gt;
     &lt;p&gt;
     &lt;small&gt;
@@ -854,12 +854,12 @@ Diff...
 <t tx="leo.20161112230127.8"></t>
 <t tx="leo.20161112231048.1">&lt;section&gt;
     &lt;h2&gt;git&lt;/h2&gt;
-    &lt;iframe src="https://player.vimeo.com/video/191653343" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
-    &lt;p&gt;
-    &lt;a href="https://vimeo.com/191653343"&gt;2016-11-15_22-20-20&lt;/a&gt; from 
-    &lt;a href="https://vimeo.com/user57032952"&gt;s40523114&lt;/a&gt; on 
-    &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.
-    &lt;/p&gt;
+    &lt;iframe src="https://player.vimeo.com/video/191655126" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+     &lt;p&gt;
+     &lt;a href="https://vimeo.com/191655126"&gt;2016-11-15_22-20-20&lt;/a&gt; from 
+     &lt;a href="https://vimeo.com/user57032996"&gt;s40523112&lt;/a&gt; on 
+     &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.
+     &lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20161113233143.1">@language python
